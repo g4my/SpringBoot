@@ -12,7 +12,7 @@ Scan Spring Boot is a Java spring boot scan wich discovers most of metrics. The 
 
 ```./scanSpringBoot.py <url> ```
 
- example :  ```./scanSpringBoot.py http://github.com```
+ example :  ```./scanSpringBoot.py http://github.com/```
  
  # Features
  
