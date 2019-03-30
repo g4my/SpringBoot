@@ -14,8 +14,3 @@ Scan Spring Boot is a Java spring boot scan wich discovers most of metrics. The 
 
  example :  ```./scanSpringBoot.py http://github.com/```
  
- # Features
- 
- * Add options
- * Code optimisation
- * Add new metrics
