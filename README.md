@@ -6,8 +6,7 @@ Scan Spring Boot is a Java spring boot scan wich discovers most of metrics. The 
  
  * Python3
  * Requests library   --> apt-get install python3-requests
- * Termcolor library  --> apt-gt install python3-termcolor
- * Sys library
+ * Termcolor library  --> apt-get install python3-termcolor
  
 # Usage
 
